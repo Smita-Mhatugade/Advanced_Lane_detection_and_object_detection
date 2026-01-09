@@ -172,3 +172,5 @@ YOLO model files (.pt) should remain in the project root directory.
 3. **Adjust confidence threshold**: Higher values reduce false positives
 4. **Use appropriate input resolution**: HD (1280x720) provides good balance
 
+## Preview 
+
