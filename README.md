@@ -1,3 +1,6 @@
+# The remaining files of yolo with .pt extension are availabel at (https://drive.google.com/drive/folders/1OFDtYIZjsVFBLCr0bpExHNX6cWRdZT6S?usp=drive_link) download them and arrange them based on the file structure below
+
+
 # Advanced Lane & Object Detection System
 
 ## Project Overview
