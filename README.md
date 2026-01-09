@@ -173,4 +173,19 @@ YOLO model files (.pt) should remain in the project root directory.
 4. **Use appropriate input resolution**: HD (1280x720) provides good balance
 
 ## Preview 
+<img width="945" height="632" alt="image" src="https://github.com/user-attachments/assets/76b4180b-4b3f-42fb-9b0e-87054eff52de" />
+
+<img width="943" height="635" alt="image" src="https://github.com/user-attachments/assets/9e2bb0b6-ef63-4d8a-9cf7-51bd0632fd63" />
+
+<img width="925" height="622" alt="image" src="https://github.com/user-attachments/assets/f298c949-4794-4fe0-9338-420366c68ac8" />
+
+<img width="937" height="628" alt="image" src="https://github.com/user-attachments/assets/22994649-c9e0-47b5-b6e9-812bd09cf198" />
+
+<img width="939" height="624" alt="image" src="https://github.com/user-attachments/assets/338aa305-3687-42bf-b251-ead20fa13a1c" />
+
+
+
+
+
+
 
